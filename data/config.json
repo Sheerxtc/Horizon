@@ -5,7 +5,7 @@
     "api_key_env": "ZHIPU_API_KEY",
     "model": "glm-4",
     "base_url": "https://open.bigmodel.cn/api/paas/v4/"
-  }，
+  },
   "email": {
     "enabled": false,
     "smtp_server": "smtp.qq.com",
